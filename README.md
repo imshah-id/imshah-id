@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shahid 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on the projects based on html and css
+- 💞️ I’m looking to collaborate on the projects based on Mern
 - 📫 How to reach me : @imshah_id on instagram
 - rest we can a chat on instagram if you want.......
 
