@@ -32,8 +32,8 @@ role      : Indie Developer & AI Builder
 email     : shahidshamimshah3@gmail.com
 
 current   :
-  - 🎓 Deepcampus — AI College Counselor (collegefind.ai)
-  - 🗣️ Talkzzz — Real-time Language Exchange App
+  - 🎓 CollegeFind AI College Counselor (collegefind.ai)
+  - 🗣️ Talkzzz Real-time Language Exchange App
 
 passion   : Building from kernel space to production
 status    : Always shipping 🚢
@@ -43,7 +43,6 @@ status    : Always shipping 🚢
 
 ---
 
-<!-- GITHUB STATS ROW — FIXED -->
 <div align="center">
 
 ## 📊 GitHub Stats
@@ -53,18 +52,6 @@ status    : Always shipping 🚢
 
 <!-- FIX 2: Using demolab streak URL (more reliable than herokuapp) -->
 <img height="180em" src="https://streak-stats.demolab.com?user=imshah-id&theme=midnight-purple&hide_border=true&background=0d1117&ring=00FFD1&fire=FF6B35&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888" />
-
-</div>
-
----
-
-<!-- TROPHIES — FIXED -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<!-- FIX 3: Reduced column=4 so fewer trophies needed to fill the row -->
-<img src="https://github-profile-trophy.vercel.app/?username=imshah-id&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
@@ -139,7 +126,7 @@ React Native / Mobile           ████████████████
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Deepcampus
+### 🎓 CollegeFind
 **[collegefind.ai](https://collegefind.ai)**
 
 AI-powered US college admissions counselor. End-to-end platform with Gemini API integration, avatar sessions, TTS onboarding, scholarship finder, and resume builder.
@@ -206,7 +193,7 @@ Real-time 1:1 and group voice/video language exchange platform targeting global 
 
 <br/><br/>
 
-> *"From kernel `sysfs` to production SaaS — no layer of the stack is too deep or too high."*
+> *"From kernel `sysfs` to production SaaS no layer of the stack is too deep or too high."*
 
 <br/>
 
