@@ -32,8 +32,8 @@ role      : Indie Developer & AI Builder
 email     : shahidshamimshah3@gmail.com
 
 current   :
-  - 🎓 Deepcampus — AI College Counselor (collegefind.ai)
-  - 🗣️ Talkzzz — Real-time Language Exchange App
+  - 🎓 CollegeFind AI College Counselor (collegefind.ai)
+  - 🗣️ Talkzzz Real-time Language Exchange App
 
 passion   : Building from kernel space to production
 status    : Always shipping 🚢
@@ -135,7 +135,7 @@ React Native / Mobile           ████████████████
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Deepcampus
+### 🎓 CollegeFind
 **[collegefind.ai](https://collegefind.ai)**
 
 AI-powered US college admissions counselor. End-to-end platform with Gemini API integration, avatar sessions, TTS onboarding, scholarship finder, and resume builder.
@@ -203,7 +203,7 @@ Real-time 1:1 and group voice/video language exchange platform targeting global 
 
 <br/><br/>
 
-> *"From kernel `sysfs` to production SaaS — no layer of the stack is too deep or too high."*
+> *"From kernel `sysfs` to production SaaS no layer of the stack is too deep or too high."*
 
 <br/>
 
