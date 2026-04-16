@@ -1,97 +1,213 @@
 <div align="center">
 
-```
-███████╗██╗  ██╗ █████╗ ██╗  ██╗██╗██████╗
-██╔════╝██║  ██║██╔══██╗██║  ██║██║██╔══██╗
-███████╗███████║███████║███████║██║██║  ██║
-╚════██║██╔══██║██╔══██║██╔══██║██║██║  ██║
-███████║██║  ██║██║  ██║██║  ██║██║██████╔╝
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝
-```
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shahid%20Shamim%20Shah&fontSize=52&fontColor=00FFD1&fontAlignY=38&desc=Full-Stack%20Engineer%20·%20AI%20Builder%20·%20Kernel%20Dev&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-### Full-Stack Engineer · AI Builder · Android Kernel Dev
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/imshah-id">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Products+%F0%9F%9A%80;From+Linux+Kernel+to+Cloud+Infrastructure;MERN+%2B+Next.js+%2B+AI+Agents+%2B+AOSP;Open+to+Collabs+%E2%80%94+Let%27s+Build+Something+Wild" alt="Typing SVG" />
+</a>
 
-*Building products from silicon to cloud — solo, fast, and obsessively.*
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=MERN+%2B+Next.js+%2F+Full-Stack+Web;AI+Agents+%26+LLM+Integrations;AOSP+%26+Linux+Kernel+Development;Cloud+Infra+%E2%80%94+AWS+%2F+GCP+%2F+Azure)](https://git.io/typing-svg)
+<!-- PROFILE VIEWS + FOLLOWERS + STARS -->
+<img src="https://komarev.com/ghpvc/?username=imshah-id&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/imshah-id?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/imshah-id?style=for-the-badge&color=FFD700&labelColor=0d1117&label=TOTAL+STARS" />
 
 </div>
 
 ---
 
-## `$ whoami`
+<!-- ABOUT ME SECTION -->
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshah-id&layout=donut&theme=midnight-purple&hide_border=true&langs_count=8&title_color=00FFD1" />
 
-> Indie developer from **Kashmir, India** — building AI-powered products from scratch.  
-> I work across the entire stack: from kernel `sysfs` interfaces and AOSP device trees to full-stack web apps, LLM pipelines, and cloud deployments. Currently shipping **[Deepcampus](https://collegefind.ai)** — an AI college admissions counselor — and **Talkzzz**, a real-time language exchange app.
+### `> init --user shahid`
 
----
+```yaml
+name      : Shahid Shamim Shah
+alias     : imshah-id
+location  : Kashmir, India 🏔️
+role      : Indie Developer & AI Builder
+email     : shahidshamimshah3@gmail.com
 
-## `$ cat skills.json`
+current   :
+  - 🎓 Deepcampus — AI College Counselor (collegefind.ai)
+  - 🗣️ Talkzzz — Real-time Language Exchange App
 
-### 🌐 Web & Full-Stack
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-### 🤖 AI & Agents
-![OpenAI](https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LLM_Pipelines-FF6B35?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### 🐧 Systems & Low-Level
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![AOSP](https://img.shields.io/badge/AOSP-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## `$ ls -la projects/`
-
-| Project | Stack | Status |
-|---|---|---|
-| 🎓 **[Deepcampus](https://collegefind.ai)** | Next.js · Node.js · Gemini API · Azure | 🟢 Live |
-| 🗣️ **Talkzzz** | Kotlin · Jetpack Compose · Node.js · Azure | 🔨 Building |
-
----
-
-## `$ cat philosophy.txt`
-
-```
-Ship fast. Own the stack.
-Build things that matter.
-From kernel space to production — no shortcuts.
+passion   : Building from kernel space to production
+status    : Always shipping 🚢
 ```
 
+<br clear="right"/>
+
 ---
 
-## `$ ./contact.sh`
+<!-- GITHUB STATS ROW -->
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imshah-id&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=00FFD1&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=imshah-id&theme=midnight-purple&hide_border=true&background=0d1117&ring=00FFD1&fire=FF6B35&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888" />
+
+</div>
+
+---
+
+<!-- TROPHIES -->
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=imshah-id&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+---
+
+<!-- SKILLS SECTION -->
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+### 🌐 Frontend & Mobile
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-*Open to collabs on AI products, open-source tools, and Android platform work.*
+### 🔧 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI & Agents
+![OpenAI](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity_API-1FB8CD?style=for-the-badge&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🐧 Systems & Low-Level
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![AOSP](https://img.shields.io/badge/AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-`> kernel dev by night. saas builder by day. always shipping.`
+<!-- SKILL PROFICIENCY BARS -->
+## 📈 Skill Proficiency
+
+```text
+Full-Stack Web (MERN/Next.js)   ████████████████████░   95%
+AI Agents & LLM Integration     ███████████████████░░   90%
+Cloud Infrastructure (AWS/GCP)  ██████████████████░░░   85%
+Android / AOSP / Kernel Dev     ████████████████░░░░░   80%
+Systems Programming (C/C++)     ███████████████░░░░░░   75%
+DevOps / CI-CD / Docker         ████████████████████░   90%
+Databases (SQL/NoSQL)           ████████████████████░   92%
+React Native / Mobile           ███████████████████░░   88%
+```
+
+---
+
+<!-- PROJECTS SHOWCASE -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Deepcampus
+**[collegefind.ai](https://collegefind.ai)**
+
+AI-powered US college admissions counselor. End-to-end platform with Gemini API integration, avatar sessions, TTS onboarding, scholarship finder, and resume builder.
+
+**Stack:** `Next.js` `Node.js` `Gemini API` `Azure` `PostgreSQL`
+
+![Status](https://img.shields.io/badge/Status-🟢_Live-00FFD1?style=flat-square&labelColor=0d1117)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ Talkzzz
+**Language Exchange App**
+
+Real-time 1:1 and group voice/video language exchange platform targeting global users with AI-assisted matching.
+
+**Stack:** `Kotlin` `Jetpack Compose` `Node.js` `Azure` `WebRTC`
+
+![Status](https://img.shields.io/badge/Status-🔨_Building-FF6B35?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 📅 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imshah-id&bg_color=0d1117&color=00FFD1&line=a78bfa&point=FF6B35&area=true&hide_border=true&area_color=302b63" />
+
+</div>
+
+---
+
+<!-- RANDOM DEV QUOTE -->
+## 💬 Dev Mantra
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+<!-- CONNECT SECTION -->
+## 📡 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/imshah-id">
+  <img src="https://img.shields.io/badge/GitHub-imshah--id-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:shahidshamimshah3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-shahidshamimshah3-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://collegefind.ai">
+  <img src="https://img.shields.io/badge/Product-collegefind.ai-00FFD1?style=for-the-badge&logo=google-chrome&logoColor=black" />
+</a>
+
+<br/><br/>
+
+> *"From kernel `sysfs` to production SaaS — no layer of the stack is too deep or too high."*
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Always+Shipping+%F0%9F%9A%A2&fontSize=20&fontColor=00FFD1&fontAlignY=65" />
 
 </div>
