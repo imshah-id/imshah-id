@@ -32,8 +32,8 @@ role      : Indie Developer & AI Builder
 email     : shahidshamimshah3@gmail.com
 
 current   :
-  - 🎓 CollegeFind AI College Counselor (collegefind.ai)
-  - 🗣️ Talkzzz Real-time Language Exchange App
+  - 🎓 Deepcampus — AI College Counselor (collegefind.ai)
+  - 🗣️ Talkzzz — Real-time Language Exchange App
 
 passion   : Building from kernel space to production
 status    : Always shipping 🚢
@@ -43,24 +43,28 @@ status    : Always shipping 🚢
 
 ---
 
-<!-- GITHUB STATS ROW -->
+<!-- GITHUB STATS ROW — FIXED -->
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imshah-id&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=00FFD1&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=imshah-id&theme=midnight-purple&hide_border=true&background=0d1117&ring=00FFD1&fire=FF6B35&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888" />
+<!-- FIX 1: Removed include_all_commits=true which caused the fetch error -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imshah-id&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=00FFD1&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117" />
+
+<!-- FIX 2: Using demolab streak URL (more reliable than herokuapp) -->
+<img height="180em" src="https://streak-stats.demolab.com?user=imshah-id&theme=midnight-purple&hide_border=true&background=0d1117&ring=00FFD1&fire=FF6B35&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888" />
 
 </div>
 
 ---
 
-<!-- TROPHIES -->
+<!-- TROPHIES — FIXED -->
 <div align="center">
 
 ## 🏆 GitHub Trophies
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=imshah-id&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<!-- FIX 3: Reduced column=4 so fewer trophies needed to fill the row -->
+<img src="https://github-profile-trophy.vercel.app/?username=imshah-id&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
@@ -135,7 +139,7 @@ React Native / Mobile           ████████████████
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 CollegeFind
+### 🎓 Deepcampus
 **[collegefind.ai](https://collegefind.ai)**
 
 AI-powered US college admissions counselor. End-to-end platform with Gemini API integration, avatar sessions, TTS onboarding, scholarship finder, and resume builder.
@@ -186,7 +190,6 @@ Real-time 1:1 and group voice/video language exchange platform targeting global 
 
 ---
 
-<!-- CONNECT SECTION -->
 ## 📡 Connect With Me
 
 <div align="center">
@@ -203,11 +206,10 @@ Real-time 1:1 and group voice/video language exchange platform targeting global 
 
 <br/><br/>
 
-> *"From kernel `sysfs` to production SaaS no layer of the stack is too deep or too high."*
+> *"From kernel `sysfs` to production SaaS — no layer of the stack is too deep or too high."*
 
 <br/>
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Always+Shipping+%F0%9F%9A%A2&fontSize=20&fontColor=00FFD1&fontAlignY=65" />
 
 </div>
